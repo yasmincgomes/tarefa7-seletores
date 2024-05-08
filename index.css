@@ -1,0 +1,42 @@
+main {
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  color: #f8f8f8;
+  text-shadow: rgb(39, 39, 39) 0.1em 0.1em 0.2em;
+  text-align: center;
+}
+
+div {
+  display: inline-block;
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  margin: -2px;
+}
+
+.vermelho {
+  background-color: #f20505;
+}
+
+.azul {
+  background-color: #05c7f2;
+}
+
+.verde {
+  background-color: #03a64a;
+}
+
+.amarelo {
+  background-color: #f2e205;
+}
+
+.hover:hover {
+  background-color: #b9b1fd;
+}
+
+#canto {
+  border: 2px solid black;
+}
