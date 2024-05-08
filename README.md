@@ -1,2 +1,2 @@
 # tarefa7-seletores
-Exercício 7 da trilha 1 (Descodificadas)
+Exercício 7 da trilha 1 (Descodificadas) 2024
